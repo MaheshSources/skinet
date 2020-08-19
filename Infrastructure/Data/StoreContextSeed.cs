@@ -29,8 +29,6 @@ namespace Infrastructure.Data
           await context.SaveChangesAsync();
         }
 
-
-
         if (!context.ProductTypes.Any())
         {
           var typesData =
