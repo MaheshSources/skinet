@@ -25,6 +25,7 @@ namespace API.Middleware
     {
         try
         {
+
         await _next(context);
       }
         catch (System.Exception ex)
