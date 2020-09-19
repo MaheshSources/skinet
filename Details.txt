@@ -1,0 +1,45 @@
+Section 1: Introduction
+3 / 3|18min
+Section 2: API Basics
+16 / 16|1hr 50min
+Section 3: API Architecture
+12 / 12|1hr 22min
+Section 4: API Generic Repository
+16 / 16|1hr 56min
+Section 5: API Error Handling
+10 / 10|1hr 12min
+Section 6: API Paging, Filtering, Sorting & Searching
+11 / 11|1hr 4min
+Section 7: Client - Angular setup
+7 / 7|42min
+Section 8: Client - Angular Basics
+10 / 10|1hr 16min
+Section 9: Client - Building the UI for our shop
+20 / 20|2hr 24min
+Section 10: Client - Routing
+9 / 9|45min
+Section 11: Client - Error handling
+8 / 8|55min
+Section 12: Client - Pazzazz
+11 / 11|1hr 12min
+Section 13: API - Basket
+10 / 10|54min
+Section 14: Client - Basket
+16 / 16|1hr 50min
+Section 15: API - Identity
+18 / 18|2hr 12min
+Section 16: API - Validation
+0 / 7|36min
+Section 17: Client - Identity
+0 / 21|2hr 27min
+Section 18: API - Orders
+0 / 22|2hr 20min
+Section 19: Client - Checkout
+0 / 22|2hr 5min
+Section 20: Client - Order Module
+0 / 4|26min
+Section 21: Taking Payments
+0 / 25|3hr 15min
+Section 22: Performance
+0 / 9|1hr 10min
+Section 23: Publishing
